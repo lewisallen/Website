@@ -2,25 +2,4 @@ body{
 	background-color: lightgray;
 }
 
-h1{
-	color:orange;	
-	font-size: 90px;
-	text-decoration: underline;
-}
-h2{
-	font-size: 40px;
-	color: green;
-}
-.small{
-	font-size: 12px;
-}
 
-#first{
-	font-size: 25px;
-}
-span{
-	font-style: italic;
-}
-h2 span{
-	text-decoration: line-through;
-}
